@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-09",
+  "defaultSkill": "atelier-video-complet",
+  "modules": [
+    "montage-video-pipeline",
+    "video-sous-titres-synchronises",
+    "video-analyse-reference",
+    "remotion-revision-medias",
+    "remotion-vertical-plein",
+    "remotion-transposer-presets"
+  ],
+  "source": "https://github.com/Willarshann/atelier-video-skills",
+  "license": "MIT",
+  "containsMedia": false,
+  "containsPrivateData": false
+}

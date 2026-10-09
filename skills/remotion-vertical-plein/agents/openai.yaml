@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion verticale plein écran"
+  short_description: "Adapter les plans au 9:16 plein écran"
+  default_prompt: "Utilise $remotion-vertical-plein pour appliquer ce workflow à ma vidéo."

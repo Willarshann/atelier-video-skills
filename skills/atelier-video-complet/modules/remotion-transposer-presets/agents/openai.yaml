@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transposer les presets vidéo"
+  short_description: "Reconstruire des procédés typographiques dans Remotion"
+  default_prompt: "Utilise $remotion-transposer-presets pour appliquer ce workflow à ma vidéo."

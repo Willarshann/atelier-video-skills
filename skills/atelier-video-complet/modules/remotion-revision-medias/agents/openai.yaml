@@ -1,0 +1,4 @@
+interface:
+  display_name: "Révision médias Remotion"
+  short_description: "Remplacer le B-roll sans modifier les graphismes"
+  default_prompt: "Utilise $remotion-revision-medias pour appliquer ce workflow à ma vidéo."
