@@ -1,0 +1,6 @@
+# Message à copier dans Claude Code
+
+> Installe le pack public https://github.com/Willarshann/atelier-video-skills. Lis d'abord README.md et INSTALLATION.md. Télécharge le dépôt ou la dernière Release, inspecte les fichiers et installe le dossier complet atelier-video-complet dans mon répertoire personnel de skills Claude, avec toutes ses références et scripts. Ne remplace aucun skill différent déjà présent et n'installe aucun logiciel sans mon accord. Vérifie SKILL.md, les liens internes et les fichiers copiés, puis utilise /atelier-video-complet pour mon prochain montage. Si ton environnement ne permet pas l'installation locale, donne-moi le ZIP exact à importer dans Customize → Skills et les étapes manuelles ; ne prétends pas l'avoir installé. Pour monter : respecte mon brief, les graphismes validés, les droits et les contrôles image/son/sous-titres. Ne publie pas mes vidéos et n'envoie pas mes rushs à un service externe sans accord.
+
+## Après import manuel dans Claude navigateur
+> Utilise le skill atelier-video-complet que je viens d'activer. Lis le module utile et ses erreurs connues. Voici mon brief et mes fichiers : [à compléter]. Indique les outils réellement disponibles avant de produire ; ne me livre pas un MP4 dit vérifié si tu n'as pas pu le rendre et le contrôler.
